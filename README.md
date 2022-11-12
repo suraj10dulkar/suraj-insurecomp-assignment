@@ -1,4 +1,4 @@
-                                                                  Insurecomp-Assignment
+Insurecomp-Assignment
 
 Programming Language used: JAVASCRIPT
 
